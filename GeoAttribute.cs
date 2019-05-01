@@ -8,6 +8,7 @@ namespace Attributes {
         public int Y { get; set; }
         public GeoAttribute() { }
 
+
         public GeoAttribute(int x, int y) {
             this.X = x;
             this.Y = y;
